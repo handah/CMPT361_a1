@@ -1,5 +1,5 @@
 # CMPT361_a1
-This repository presents the solutions for a two-part assignment covering green screen matting for virtual tourism (assignment1Part1.m, a1p1_2.m)and image blending ().
+This repository presents the solutions for a two-part assignment covering green screen matting for virtual tourism (assignment1Part1.m, a1p1_2.m)and image blending (a1p2.m).
 
 To run assignment1Part1.m, you have to put my script and the images that you want to test in the same folder. Then, click on the run button, it will show you the results. To change images, change the photo names at line 6 and line 7 of assignment1Part1.m
 
